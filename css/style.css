@@ -1496,3 +1496,23 @@ Testimonial
 }
 .testimonial-big .testimonial-big-img img { width: auto; height: 190px;
 } 
+/****************************
+Custom Css
+****************************/
+div#since {
+    margin-left: -105px;
+    width: 100%;
+    height: 20px;
+    font-weight: bolder;
+    color:white;
+    background-color: #27146c;
+    transform-origin: 170px 100% 0px;
+    -ms-transform: rotate(-45deg);
+    /* IE 9 */
+    -webkit-transform: rotate(-45deg);
+    /* Safari */
+    transform: rotate(-45deg);
+    /* Standard syntax */
+    position: absolute;
+    z-index: 99;
+}

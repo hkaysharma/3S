@@ -872,7 +872,7 @@ Navigation
 .navigation ul li:hover > a { background-color: #F7F7F7; color: #dd117a;
 } /* icon hover for sub menu */
 .navigation ul li:hover > a i { color: white;
-} .navigation ul li a.activelink { font-weight: bold;
+} .navigation ul li a.activelink { font-weight: 100;
 } .navigation ul li:first-child > a { border-top: none;
 } /* 3rd level */
 .navigation ul ul { left: 172px; top: 0; border-top: 0;
